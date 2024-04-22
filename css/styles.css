@@ -141,3 +141,9 @@ footer p {
     max-width: 300px;
   }
 }
+
+  .contenedor-img {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+  }
